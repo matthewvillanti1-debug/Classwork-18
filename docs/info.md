@@ -21,8 +21,8 @@ Set the inputs and check the outputs match with the expected results:
 |---------------|------------|-------------|-----------|
 | 0 0           | 0          | 1           | 0         |
 | 0 1           | 0          | 1           | 1         |
-| 1 0           | 1          | 0           | 1         |
-| 1 1           | 1          | 1           | 1         |
+| 1 0           | 0          | 1           | 1         |
+| 1 1           | 1          | 0           | 1         |
 
 Set the clolck to 10kHz and you should see the 5th output flashing quickly and the 4th output flashing slowly.
 ## External hardware
